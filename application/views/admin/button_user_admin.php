@@ -1,0 +1,2 @@
+<a href="<?php echo base_url(); ?>admin/update_admin/<?php echo $adm['nrp']; ?>" class="btn btn-xs btn-info"><i class="glyphicon glyphicon-edit"></i> Edit</a>
+<a href="<?php echo base_url(); ?>admin/hapus_admin/<?php echo $adm['nrp']; ?>" class="btn btn-xs btn-danger hapus-user"><i class="glyphicon glyphicon-trash"></i> Hapus</a>

@@ -1,0 +1,1 @@
+<a href="<?php echo base_url();?>work_request/tambah_wr/<?php echo $msn['no_mesin']; ?>" class="btn btn-md btn-success tombol-wr"><i class="fa fa-gear"></i> Buat Work Request</a>
